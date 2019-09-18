@@ -5,6 +5,7 @@
 
 * Monacaサイト：https://ja.monaca.io/
 * ニフクラ mobile backendサイト：https://ja.monaca.io/
+* タカノJIRO：https://monaca.mobi/en/directimport?pid=5d81fdaae788856c2709aa74
 
 ## 使用方法
 
